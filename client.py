@@ -6,7 +6,6 @@ Size = 1024
 Port = 8888
 Address = (Ip, Port)
 
- 
 def main():
     client = socket.socket(socket.AF_INET, socket.SOCK_STREAM) #starting the socket
  
